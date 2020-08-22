@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+/* */
+html,body{
+    height: 100%;
+}
+
+.artigo{
+    width: 100%;
+    height: auto%;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+.artigo > h1{
+    color: blueviolet;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.artigo > p{
+    color: black;
+    line-height: 16px;
+    text-align: left;
+    
+
+}
